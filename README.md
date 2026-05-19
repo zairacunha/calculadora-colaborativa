@@ -18,4 +18,4 @@ python calculadora.py
 
 ## Autores
 - Zaira Cunha — [@zairacunha](https://github.com/zairacunha)
-- [Marco] — [@MarcoPazMartinez](https://github.com/MarcoPazMartinez)
+- Marco — [@MarcoPazMartinez](https://github.com/MarcoPazMartinez)
